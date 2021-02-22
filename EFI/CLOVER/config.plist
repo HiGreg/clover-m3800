@@ -39,9 +39,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X0RTTQ==</data>
+					<data>
+					X0RTTQ==
+					</data>
 					<key>Replace</key>
-					<data>WERTTQ==</data>
+					<data>
+					WERTTQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -49,9 +53,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>T1NJRA==</data>
+					<data>
+					T1NJRA==
+					</data>
 					<key>Replace</key>
-					<data>WFNJRA==</data>
+					<data>
+					WFNJRA==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -59,9 +67,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X09TSQ==</data>
+					<data>
+					X09TSQ==
+					</data>
 					<key>Replace</key>
-					<data>WE9TSQ==</data>
+					<data>
+					WE9TSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -69,9 +81,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>RUMwXw==</data>
+					<data>
+					RUMwXw==
+					</data>
 					<key>Replace</key>
-					<data>RUNfXw==</data>
+					<data>
+					RUNfXw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -79,9 +95,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0ZYMA==</data>
+					<data>
+					R0ZYMA==
+					</data>
 					<key>Replace</key>
-					<data>SUdQVQ==</data>
+					<data>
+					SUdQVQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -89,9 +109,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>U0FUMA==</data>
+					<data>
+					U0FUMA==
+					</data>
 					<key>Replace</key>
-					<data>U0FUQQ==</data>
+					<data>
+					U0FUQQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -99,9 +123,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>QjBEMw==</data>
+					<data>
+					QjBEMw==
+					</data>
 					<key>Replace</key>
-					<data>SERBVQ==</data>
+					<data>
+					SERBVQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -109,9 +137,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>SVRNUg==</data>
+					<data>
+					SVRNUg==
+					</data>
 					<key>Replace</key>
-					<data>VElNUg==</data>
+					<data>
+					VElNUg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -119,9 +151,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>QUxTRAhfSEk=</data>
+					<data>
+					QUxTRAhfSEk=
+					</data>
 					<key>Replace</key>
-					<data>QUxTMAhfSEk=</data>
+					<data>
+					QUxTMAhfSEk=
+					</data>
 				</dict>
 			</array>
 		</dict>
@@ -157,10 +193,8 @@
 	<dict>
 		<key>Arguments</key>
 		<string>dart=0 -cdfon -wegnoegpu</string>
-		<key>DefaultLoader</key>
-		<string>macOS</string>
 		<key>DefaultVolume</key>
-		<string>macOS</string>
+		<string>Macintosh HD</string>
 		<key>Legacy</key>
 		<string>LegacyBiosDefault</string>
 		<key>NoEarlyProgress</key>
@@ -174,11 +208,6 @@
 		<integer>0</integer>
 		<key>UIScale</key>
 		<integer>1</integer>
-	</dict>
-	<key>CPU</key>
-	<dict>
-		<key>TurboDisable</key>
-		<true/>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -266,13 +295,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>QVBQTEUgU1NEAA==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				QVBQTEUgU1NEAA==
+				</data>
 				<key>Name</key>
 				<string>IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>AAAAAAAAAAAAAA==</data>
+				<data>
+				AAAAAAAAAAAAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -280,13 +311,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AQAAAEAAAAAeAgAABQUJAQ==</data>
+				<data>
+				AQAAAEAAAAAeAgAABQUJAQ==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleIntelFramebufferAzul</string>
 				<key>Replace</key>
-				<data>AQAAAEAAAAAfAgAABQUJAQ==</data>
+				<data>
+				AQAAAEAAAAAfAgAABQUJAQ==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -294,13 +329,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>CAAuCgEDAwMAAAAEAAAgAgAAUAEAAABgbAUAAGwFAAAAAAAAAAAAAAAACAACAAAAMAAAAA==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				CAAuCgEDAwMAAAAEAAAgAgAAUAEAAABgbAUAAGwFAAAA
+				AAAAAAAAAAAACAACAAAAMAAAAA==
+				</data>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelFramebufferAzul</string>
 				<key>Replace</key>
-				<data>CAAuCgEDAwMAAAAKAAAAAwAAAAMAAABgbAUAAGwFAAAAAAAAAAAAAAAACAACAAAAMAAAAA==</data>
+				<data>
+				CAAuCgEDAwMAAAAKAAAAAwAAAAMAAABgbAUAAGwFAAAA
+				AAAAAAAAAAAACAACAAAAMAAAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -308,13 +347,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>CwwAAA==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				CwwAAA==
+				</data>
 				<key>Name</key>
 				<string>AppleHDAController</string>
 				<key>Replace</key>
-				<data>DAwAAA==</data>
+				<data>
+				DAwAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -322,13 +363,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>DAoAAA==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				DAoAAA==
+				</data>
 				<key>Name</key>
 				<string>AppleHDAController</string>
 				<key>Replace</key>
-				<data>DAwAAA==</data>
+				<data>
+				DAwAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -336,13 +379,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>hAjsEA==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				hAjsEA==
+				</data>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
-				<data>AAAAAA==</data>
+				<data>
+				AAAAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -350,13 +395,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>hQjsEA==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				hQjsEA==
+				</data>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
-				<data>AAAAAA==</data>
+				<data>
+				AAAAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -364,13 +411,15 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>ixnUEQ==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				ixnUEQ==
+				</data>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
-				<data>aAbsEA==</data>
+				<data>
+				aAbsEA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -378,13 +427,15 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>hBnUEQ==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				hBnUEQ==
+				</data>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
-				<data>aAbsEA==</data>
+				<data>
+				aAbsEA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -392,29 +443,31 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>ihnUEQ==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				ihnUEQ==
+				</data>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
-				<data>AAAAAA==</data>
+				<data>
+				AAAAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Enable Realtek ALC668 stage for 10.11</string>
-				<key>Disabled</key>
-				<false/>
 				<key>Find</key>
-				<data>gxnUEQ==</data>
-				<key>InfoPlistPatch</key>
-				<false/>
+				<data>
+				gxnUEQ==
+				</data>
 				<key>MatchOS</key>
 				<string>10.11.x</string>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
-				<data>AAAAAA==</data>
+				<data>
+				AAAAAA==
+				</data>
 			</dict>
 		</array>
 	</dict>
